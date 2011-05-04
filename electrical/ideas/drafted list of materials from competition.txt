@@ -1,0 +1,3 @@
+<Allon Hadaya 5/4/11>
+	arduino mega, aeroquad shield, wifi shield, gyro, accelerometer, compass, proximity sensor, 4 escs, 4 motors, 2 props cw, 2 props ccw, rf camera, ADC usb camera, large lipo, small lipo.
+</Allon Hadaya>

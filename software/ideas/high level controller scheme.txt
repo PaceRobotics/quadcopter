@@ -1,0 +1,7 @@
+<Allon Hadaya 5/4/11>
+	This control scheme intends to raise the controlability of the 	quadcopter by mapping sliders to axis velocities instead of throttle, roll, and pitch.
+	throttle slider : vertical velocity
+	roll slider, pitch slider : lateral velocity
+	thumb coolie hat : lateral trim
+	b7, b6 : yaw trim
+</Allon Hadaya>
