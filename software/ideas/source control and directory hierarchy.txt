@@ -1,0 +1,20 @@
+Design doc examples: (military web pages - f22)
+PaceRobotics github account (paid for privacy).
+Each robot gets a repository.
+PaceRobotics members (through github) get access depending on their responsibilities.
+PaceRobotics members can be assigned to issues they are responsible for.
+Make an ideas directory where folders are titled by the idea and contain description and discussion.
+Ideas naturally translate from the ideas directory to the documentation directory as they get implemented.
+To understand a documentation/ implementation decision, one can trace the development of an idea in its file in the ideas directory.
+documentation is the organized presentation of implemented ideas.
+structure:
+root/electrical
+	/design
+	/ideas
+root/mechanical
+	/design
+	/ideas
+root/software
+	/design
+	/ideas
+root/universal ideas (for things that don't fit in one category)
