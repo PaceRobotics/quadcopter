@@ -1,2 +1,0 @@
-there should be a flipping procedure (button activated?) for when the quadcopter lands upside down.
-it would help if the quadcopter hand 'tenting' on the top as to never be completely flipped.

@@ -1,2 +1,0 @@
-Square channel (not c channel) arms to reduce flexing.
-Major source of error. Especially yaw.

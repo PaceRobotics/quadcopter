@@ -1,1 +1,0 @@
-add adjustable tention between the arms for fine tuning.

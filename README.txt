@@ -1,1 +1,0 @@
-Welcome all to the Pace Robotics Society Quadcopter repository. LET'S DO IT!!!
